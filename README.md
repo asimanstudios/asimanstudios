@@ -148,7 +148,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asimanstudios)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a84ff?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://asimanstudios.github.io](https://asimanstudios.github.io/PortFolio/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a84ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://asimanstudios.github.io/PortFolio/)
 </div>
 
 ---
