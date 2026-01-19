@@ -121,7 +121,7 @@
 
 ---
 
-### 🖼️ Galería de Imágenes
+### Galería de Imágenes
 > Visor e impresor de imágenes desarrollado en Python.
 
 - 📁 Carga de imágenes del sistema
